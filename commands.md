@@ -72,7 +72,7 @@
   
   `ls -a`
 
-- **Clear terminal**:
+- **Clear terminal screen**:
   
   `clear`
 
