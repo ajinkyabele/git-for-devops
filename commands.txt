@@ -1,0 +1,18 @@
+    1  ls
+    2  git --version
+    3  git init
+    4  ls
+    5  ls -a
+    6  git status
+    7  vim testing.py
+    8  git status
+    9  git add testing.py
+   10  git status
+   11  git commit -m "my first commit"
+   12  git config --global user.email "ajinkyabele163@gmail.com"
+   13  git config --global user.name "ajinkya"
+   14  git commit -m "my first commit"
+   15  git status
+   16  git log
+   17  git show
+   18  history > commands.txt
